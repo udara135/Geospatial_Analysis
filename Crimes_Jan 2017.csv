@@ -1,0 +1,79 @@
+Police_Stn,Type,Latitude,Longitude,Time,Year,Month,Date
+Kurunduwaththa,Theft,6.9134,79.8736,1600,2017,1,1
+Kotahena,Murder,6.9537,79.8605,2000,2017,1,2
+Maradana,Assult,6.9254,79.8625,2330,2017,1,2
+Pettha,Theft,6.9392,79.8537,1620,2017,1,2
+Armour_Street,Robbery,6.9414,79.8577,1700,2017,1,3
+Dematagoda,Drugs,6.9301,79.8768,1400,2017,1,3
+Bambalapitiya,House Braking,6.8891,79.8554,0930,2017,1,5
+Kirullapone,Robbery,6.8842,79.8796,1530,2017,1,5
+Maradana,Assult,6.9300,79.8756,2330,2017,1,5
+Maligawatta,Murder,6.9321,79.8709,1245,2017,1,6
+Narahenpita,Theft,6.8798,79.8733,1545,2017,1,8
+Fort,Theft,6.9345,79.8466,2010,2017,1,9
+Armour_Street,Assult,6.9377,79.8672,1800,2017,1,10
+Maligawatta,Murder,6.9349,79.8652,1300,2017,1,10
+Maligawatta,Assult,6.9411,79.8730,2010,2017,1,10
+Borella,House Braking,6.9177,79.8733,1045,2017,1,11
+Borella,Robbery,6.9128,79.8827,1315,2017,1,11
+Grand Pass,Theft,6.9438,79.8736,2130,2017,1,11
+Kotahena,House Braking,6.9500,79.8681,1645,2017,1,11
+Kollupitiya,Robbery,6.9162,79.8508,1500,2017,1,12
+Armour_Street,Theft,6.9404,79.8559,1730,2017,1,14
+Maligawatta,Murder,6.9374,79.8733,1900,2017,1,14
+Maligawatta,Assult,6.9361,79.8707,2045,2017,1,15
+Armour_Street,Theft,6.9387,79.8585,1710,2017,1,16
+Dematagoda,House Braking,6.9276,79.8769,0950,2017,1,16
+Maradana,Rape,6.9327,79.8680,2100,2017,1,16
+Pettha,House Braking,6.9357,79.8494,1430,2017,1,16
+Bambalapitiya,House Braking,6.8846,79.8574,1030,2017,1,17
+Borella,Theft,6.9207,79.8816,2230,2017,1,17
+Dematagoda,House Braking,6.9323,79.8771,1800,2017,1,17
+Grand Pass,House Braking,6.9481,79.8744,1830,2017,1,17
+Kirullapone,House Braking,6.8859,79.8795,1700,2017,1,17
+Modara,Theft,6.9739,79.8769,1815,2017,1,17
+Narahenpita,Robbery,6.8892,79.8695,1530,2017,1,17
+Borella,House Braking,6.9177,79.8823,1600,2017,1,18
+Maligawatta,Murder,6.9373,79.8709,2100,2017,1,18
+Wellawatta,House Braking,6.8734,79.8656,1730,2017,1,18
+Borella,House Braking,6.9218,79.8835,1800,2017,1,19
+Borella,Theft,6.9236,79.8851,2210,2017,1,19
+Grand Pass,Robbery,6.9593,79.8686,1600,2017,1,19
+Kurunduwaththa,Robbery,6.9018,79.8670,1325,2017,1,19
+Narahenpita,Robbery,6.8832,79.8722,1530,2017,1,19
+Armour_Street,Murder,6.9381,79.8635,1345,2017,1,20
+Grand Pass,Theft,6.9510,79.8723,1820,2017,1,20
+Wellawatta,House Braking,6.8748,79.8718,1700,2017,1,20
+Armour_Street,Drugs,6.9404,79.8573,0730,2017,1,21
+Narahenpita,Robbery,6.8948,79.8776,1630,2017,1,21
+Wellawatta,Theft,6.8781,79.8678,1645,2017,1,21
+Armour_Street,Theft,6.9377,79.8616,1600,2017,1,22
+Borella,Robbery,6.9141,79.8837,1200,2017,1,22
+Armour_Street,House Braking,6.9401,79.8619,1545,2017,1,23
+Grand Pass,Robbery,6.9449,79.8664,1530,2017,1,23
+Modara,Robbery,6.9769,79.8794,1215,2017,1,23
+Armour_Street,Robbery,6.9366,79.8584,1750,2017,1,24
+Armour_Street,Drugs,6.9405,79.8605,1445,2017,1,24
+Bambalapitiya,House Braking,6.8822,79.8603,1700,2017,1,24
+Kirullapone,House Braking,6.8789,79.8798,1300,2017,1,24
+Kirullapone,House Braking,6.8774,79.8778,0930,2017,1,24
+Kollupitiya,Drugs,6.9082,79.8546,1500,2017,1,24
+Maradana,Robbery,6.9246,79.8735,1710,2017,1,24
+Grand Pass,Assult,6.9624,79.8736,2030,2017,1,25
+Kirullapone,House Braking,6.8834,79.8805,1030,2017,1,25
+Modara,Robbery,6.9712,79.8814,1230,2017,1,25
+Maradana,Robbery,6.9241,79.8697,1530,2017,1,26
+Modara,House Braking,6.9772,79.8830,1115,2017,1,26
+Grand Pass,Theft,6.9593,79.8745,1630,2017,1,27
+Modara,Robbery,6.9730,79.8700,1640,2017,1,27
+Maradana,Robbery,6.9197,79.8630,1420,2017,1,28
+Kirullapone,Theft,6.8770,79.8755,1715,2017,1,29
+Armour_Street,Theft,6.9346,79.8610,1800,2017,1,30
+Dematagoda,Rape,6.9316,79.8799,1900,2017,1,30
+Grand Pass,Murder,6.9405,79.8701,2030,2017,1,30
+Kirullapone,Robbery,6.8806,79.8824,1830,2017,1,30
+Maradana,Robbery,6.9308,79.8551,1610,2017,1,30
+Modara,Robbery,6.9665,79.8778,1810,2017,1,30
+Dematagoda,Theft,6.9307,79.8799,1945,2017,1,31
+Grand Pass,Murder,6.9494,79.8738,1845,2017,1,31
+Wellawatta,Drugs,6.8834,79.8690,1515,2017,1,31

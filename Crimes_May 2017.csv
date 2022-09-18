@@ -1,0 +1,79 @@
+Police_Stn,Type,Latitude,Longitude,Time,Year,Month,Date
+Bambalapitiya,Theft,6.8881,79.8551,2210,2017,5,1
+Dematagoda,Theft,6.9353,79.8811,1650,2017,5,1
+Grand Pass,Murder,6.9444,79.8691,2145,2017,5,1
+Maradana,Drugs,6.9219,79.8678,1500,2017,5,1
+Wellawatta,Robbery,6.8807,79.8658,1545,2017,5,1
+Maligawatta,Theft,6.9365,79.8725,2020,2017,5,2
+Bambalapitiya,Theft,6.8852,79.8561,1900,2017,5,3
+Narahenpita,Theft,6.8911,79.8619,2010,2017,5,3
+Pettha,Theft,6.9376,79.8503,1750,2017,5,4
+Modara,Assult,6.9750,79.8808,2145,2017,5,5
+Pettha,Theft,6.9362,79.8512,2015,2017,5,5
+Slave Island,Robbery,6.9288,79.8477,1300,2017,5,5
+Slave Island,Theft,6.9250,79.8475,1645,2017,5,5
+Modara,Murder,6.9673,79.8795,2000,2017,5,6
+Fort,Theft,6.9355,79.8462,1945,2017,5,8
+Kollupitiya,Robbery,6.9100,79.8558,1730,2017,5,8
+Maradana,Assult,6.9274,79.8738,2130,2017,5,8
+Borella,Theft,6.9159,79.8808,1915,2017,5,9
+Borella,Drugs,6.9204,79.8767,0745,2017,5,9
+Modara,Theft,6.9768,79.8744,1750,2017,5,9
+Wellawatta,Drugs,6.8796,79.8622,1415,2017,5,9
+Borella,Murder,6.9182,79.8811,2100,2017,5,10
+Kotahena,Drugs,6.9461,79.8649,1400,2017,5,10
+Dematagoda,House Braking,6.9419,79.8793,1600,2017,5,11
+Pettha,Robbery,6.9400,79.8539,1830,2017,5,11
+Slave Island,House Braking,6.9221,79.8532,1630,2017,5,11
+Dematagoda,Robbery,6.9300,79.8815,1625,2017,5,12
+Grand Pass,Drugs,6.9621,79.8716,1420,2017,5,12
+Maligawatta,Assult,6.9369,79.8740,1900,2017,5,12
+Maligawatta,Drugs,6.9328,79.8716,1330,2017,5,12
+Dematagoda,Robbery,6.9308,79.8788,1945,2017,5,13
+Kotahena,Robbery,6.9493,79.8637,1600,2017,5,13
+Armour_Street,Robbery,6.9396,79.8552,1615,2017,5,14
+Dematagoda,Robbery,6.9263,79.8813,1500,2017,5,14
+Grand Pass,Theft,6.9452,79.8761,2150,2017,5,14
+Grand Pass,Rape,6.9614,79.8692,2025,2017,5,15
+Kollupitiya,Theft,6.9007,79.8565,1515,2017,5,15
+Maligawatta,Murder,6.9403,79.8760,2015,2017,5,16
+Modara,Theft,6.9667,79.8706,2300,2017,5,16
+Wellawatta,Theft,6.8800,79.8631,1500,2017,5,16
+Wellawatta,Theft,6.8734,79.8590,2015,2017,5,16
+Grand Pass,House Braking,6.9541,79.8720,1900,2017,5,17
+Kollupitiya,House Braking,6.9120,79.8486,1445,2017,5,17
+Kotahena,Rape,6.9447,79.8593,2315,2017,5,17
+Wellawatta,House Braking,6.8759,79.8603,1030,2017,5,17
+Grand Pass,Robbery,6.9628,79.8718,1925,2017,5,18
+Narahenpita,House Braking,6.8972,79.8810,0900,2017,5,18
+Grand Pass,Theft,6.9506,79.8710,1910,2017,5,19
+Kollupitiya,House Braking,6.9078,79.8521,1350,2017,5,19
+Kotahena,Theft,6.9427,79.8612,1530,2017,5,19
+Kotahena,Assult,6.9480,79.8658,1900,2017,5,19
+Kurunduwaththa,House Braking,6.8972,79.8693,0800,2017,5,19
+Modara,Theft,6.9680,79.8747,2110,2017,5,19
+Armour_Street,Theft,6.9414,79.8609,1615,2017,5,20
+Kurunduwaththa,Robbery,6.9158,79.8684,1215,2017,5,20
+Bambalapitiya,Robbery,6.8964,79.8591,1645,2017,5,21
+Kirullapone,Assult,6.8753,79.8782,1600,2017,5,21
+Armour_Street,Robbery,6.9375,79.8604,1550,2017,5,22
+Kirullapone,House Braking,6.8703,79.8812,0815,2017,5,22
+Kotahena,Theft,6.9521,79.8642,1945,2017,5,23
+Maradana,House Braking,6.9319,79.8674,0900,2017,5,23
+Grand Pass,Theft,6.9571,79.8771,1510,2017,5,24
+Kotahena,Theft,6.9518,79.8604,1715,2017,5,24
+Modara,Robbery,6.9744,79.8824,1545,2017,5,24
+Pettha,Murder,6.9386,79.8547,2145,2017,5,24
+Bambalapitiya,Robbery,6.8864,79.8559,0930,2017,5,25
+Dematagoda,Assult,6.9268,79.8769,2000,2017,5,25
+Grand Pass,House Braking,6.9620,79.8703,1530,2017,5,25
+Kollupitiya,House Braking,6.9033,79.8570,1215,2017,5,25
+Grand Pass,Robbery,6.9430,79.8698,1815,2017,5,26
+Dematagoda,Theft,6.9312,79.8768,1825,2017,5,27
+Grand Pass,Assult,6.9599,79.8715,1945,2017,5,28
+Maligawatta,House Braking,6.9335,79.8729,0830,2017,5,30
+Slave Island,House Braking,6.9202,79.8525,1115,2017,5,30
+Grand Pass,Murder,6.9442,79.8706,2000,2017,5,31
+Kirullapone,Robbery,6.8743,79.8833,1915,2017,5,31
+Maradana,House Braking,6.9232,79.8724,0030,2017,5,31
+Maradana,Robbery,6.9313,79.8605,1745,2017,5,31
